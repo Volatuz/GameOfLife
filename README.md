@@ -16,5 +16,5 @@
                   
   Requiere tener instalado MatLab 2015+
 	Se ejecuta el archivo GoL.m y una vez dentro, 
-	presiona <F5> para ejecutar la aplicacion.
+	presiona F5 para ejecutar la aplicacion.
 	(Pequeño proyecto de la universidad)
